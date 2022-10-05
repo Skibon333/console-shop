@@ -1,0 +1,14 @@
+<criterias>
+    <criteria>
+        <title>name</title>
+        <value>ASC</value>
+    </criteria>
+    <criteria>
+        <title>price</title>
+        <value>ASC</value>
+    </criteria>
+    <criteria>
+        <title>manufacturer</title>
+        <value>DESC</value>
+    </criteria>
+</criterias>
